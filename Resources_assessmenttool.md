@@ -52,7 +52,7 @@ These videos are part of an online course jointly produced by NRGI, the Columbia
 
 ###**PRECEPT 4: Taxation and payments**
 
-*	Bauer, Andrew and Quiroz, Juan Carlos (2013), [*Chapter 15: Resource Governance*](http://aea-al.org/wp-content/uploads/2014/10/The-Handbook-of-Global-Energy-Policy.pdf), The Handbook of Global Energy Policy, Wiley-Blackwell, pp. 244-262;
+*	Bauer, Andrew and Quiroz, Juan Carlos (2013), [Chapter 15: Resource Governance, *The Handbook of Global Energy Policy*](http://aea-al.org/wp-content/uploads/2014/10/The-Handbook-of-Global-Energy-Policy.pdf), Wiley-Blackwell, pp. 244-262;
 *	Calder, Jack (2014), [*Administering Fiscal Regimes for Extractive Industries – A Handbook*](http://www.agora-parl.org/sites/default/files/administeringfiscalregimesforei.pdf). International Monetary Fund;
 *	IMF (2012), [*Fiscal Regimes for Extractive Industries: Design and Implementation*](https://www.imf.org/external/np/pp/eng/2012/081512.pdf);
 *	Land, Bryan (2010), [*Resource rent taxes: a re-appraisal” in The Taxation of Petroleum and Minerals: Principles, Problem and Practice*](https://www.international-arbitration-attorney.com/wp-content/uploads/arbitrationlaw1394930.pdf). Edited by Daniel, P., Keen, M., McPherson, C. pp. 242-262;
