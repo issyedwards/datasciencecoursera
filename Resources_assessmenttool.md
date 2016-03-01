@@ -97,3 +97,35 @@ These videos are part of an online course jointly produced by NRGI, the Columbia
 * **How should I approach a question I do not understand?**
 
 NRGI has prepared a detailed guidance note for each question of the questionnaire. When attempting to answer a question, a second tab entitled “Guidance note” exists behind the question tab. Click on this tab and you will find a detailed explanation of the relevance of a question, including definitions of key terms and an indication of where to look for evidence and how to answer.
+
+* **What if I am unable to find a law in response to a de jure question?**
+
+In order to fully answer a *de jure* question where no law exists on the topic of the question, begin by providing a step-by-step guide that explains where you have looked for evidence. This includes uploading the relevant selection of laws consulted, and indicating where in these texts no information was found. Additional sources of information, such as interviews, third-party reports and media sources are also welcome, but as secondary sources of information after the relevant laws have already been consulted.
+
+* **What do I do if any aspect of the tool software stops functioning correctly?**
+
+When logging into the online tool, in the upper right hand corner, click on the RGI Assessment Tool dropdown, and then click on Technical Assistance. Please complete the form on the [Technical Assistance](http://rgi-staging.nrgi-assessment.org/contact) page to report your issue to the RGI tool software developer.
+
+* **How do I create a PDF?**
+
+The easiest way is to convert a webpage to a pdf document is to print to PDF. 
+
+* **What should I do if I forget my login details or password?**
+
+If you forget your password, go to the RGI Assessment [login](http://rgi-staging.nrgi-assessment.org/) page, click on  button in the top right-hand corner called **Forgot Password**. This will take you to a [new page](http://rgi-staging.nrgi-assessment.org/recover-password) where you simply need to enter your email address and you will be sent an email to recover your password.
+
+*	**What do I do if I cannot reach my assigned NRGI staff membercountry coordinator?**
+
+If your country coordinator is away for a long period of time, before leaving they will assign you a different coordinator to guide you through the process whilst they are away. Always pay very close attention to all emails from NRGI, as missing this information may mean the difference between receiving a prompt response to your query, or a delayed response.
+
+* **Can I modify my answer once I have submitted it?**
+
+Once you have submitted your assessment, you cannot return to your answers to edit them. When working on an answer, clicking on *SAVE NSWER will save your progress but the question will not be marked as complete and you can return to your work at a later date. By selecting MARK COMPLETE, your question will be marked as complete on the assessment homepage, but you can still return to your answer if you have not submitted your full assessment. If you are unsure whether your answer is complete, click on SAVE ANSWER rather than MARK COMPLETE.
+
+* **When can I use an interview as a source of evidence?**
+
+Interviews should only be used to inquire about where publicly available information can be found. Where an interviewee provides a consultant with information on where information can be acquired, the consultant should reference the original source of information as the primary source of evidence, with the interview justification as a secondary source of evidence.
+
+* **How do I upload an interview as evidence?**
+
+Interviews can be recorded as a type of reference in the assessment tool. When entering a new interview as a reference, the tool will ask you for basic contact details for your interviewee, which you are required to include but that will not be made public (i.e. all interviewees will remain anonymous). If you fail to include these details, or include incorrect contact details, for example to preserve an interviewee’s identity, your interview will not be included as a reference and you will be required to answer the question again.
