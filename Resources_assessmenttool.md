@@ -52,10 +52,10 @@ These videos are part of an online course jointly produced by NRGI, the Columbia
 
 ##**Precept 4: Taxation and payments**
 
-*	Bauer, Andrew and Quiroz, Juan Carlos (2013), [Chapter 15: Resource Governance, *The Handbook of Global Energy Policy*](http://aea-al.org/wp-content/uploads/2014/10/The-Handbook-of-Global-Energy-Policy.pdf), Wiley-Blackwell, pp. 244-262;
+*	Bauer, Andrew and Quiroz, Juan Carlos (2013), Chapter 15: Resource Governance, [*The Handbook of Global Energy Policy*](http://aea-al.org/wp-content/uploads/2014/10/The-Handbook-of-Global-Energy-Policy.pdf), Wiley-Blackwell, pp. 244-262;
 *	Calder, Jack (2014), [*Administering Fiscal Regimes for Extractive Industries – A Handbook*](http://www.agora-parl.org/sites/default/files/administeringfiscalregimesforei.pdf). International Monetary Fund;
 *	IMF (2012), [*Fiscal Regimes for Extractive Industries: Design and Implementation*](https://www.imf.org/external/np/pp/eng/2012/081512.pdf);
-*	Land, Bryan (2010), [*Resource rent taxes: a re-appraisal” in The Taxation of Petroleum and Minerals: Principles, Problem and Practice*](https://www.international-arbitration-attorney.com/wp-content/uploads/arbitrationlaw1394930.pdf). Edited by Daniel, P., Keen, M., McPherson, C. pp. 242-262;
+*	Land, Bryan (2010), "Resource rent taxes: a re-appraisal”, [*The Taxation of Petroleum and Minerals: Principles, Problem and Practice*](https://www.international-arbitration-attorney.com/wp-content/uploads/arbitrationlaw1394930.pdf). Edited by Daniel, P., Keen, M., McPherson, C. pp. 242-262;
 *	[NRGI Reader: Fiscal Regime Design](http://www.resourcegovernance.org/sites/default/files/nrgi_Fiscal-Regime-Design.pdf);
 *	[NRGI Reader: Fiscal Rules and Natural Resource Funds](http://www.resourcegovernance.org/sites/default/files/nrgi_Fiscal-Rules-and-NRFs.pdf).
 
@@ -88,4 +88,12 @@ These videos are part of an online course jointly produced by NRGI, the Columbia
 
 *	Calder, Jack (2014), [*Administering Fiscal Regimes for Extractive Industries – A Handbook*](http://www.agora-parl.org/sites/default/files/administeringfiscalregimesforei.pdf). IMF;
 *	Frankel, Jeffrey (2011), "How Can Commodity Exporters Make Fiscal and Monetary Policy Less Procyclical?", [*Beyond the Curse: Policies to Harness the Power of Natural Resources*](https://notendur.hi.is/gylfason/Beyond_the_Curse_Arezki_Gylfason_Sy.pdf), (eds. Rabah Arezki, Thorvaldur Gylfason and Amadou Sy). IMF. pp. 167-180;
-*	
+*	Hamilton, Kirk, and Eduardo Ley (2011) “Sustainable Fiscal Policy for Mineral-Based Economies”, [*Beyond the Curse: Policies to Harness the Power of Natural Resources*](https://notendur.hi.is/gylfason/Beyond_the_Curse_Arezki_Gylfason_Sy.pdf), (eds. Rabah Arezki, Thorvaldur Gylfason and Amadou Sy). IMF. pp. 131-147;
+*	IMF (2012), [Macroeconomic Policy Frameworks for Resource-Rich Developing Countries](http://www.imf.org/external/np/pp/eng/2012/082412.pdf). IMF;
+*	NRGI-CCSI (2014), “Natural Resource Fund Governance: The Essentials”, [Managing the public trust: How to make natural resource funds work for citizens](http://www.resourcegovernance.org/sites/default/files/NRF_Complete_Report_EN.pdf).
+
+##**Frequently Asked Questions**
+
+* **How should I approach a question I do not understand?**
+
+NRGI has prepared a detailed guidance note for each question of the questionnaire. When attempting to answer a question, a second tab entitled “Guidance note” exists behind the question tab. Click on this tab and you will find a detailed explanation of the relevance of a question, including definitions of key terms and an indication of where to look for evidence and how to answer.
