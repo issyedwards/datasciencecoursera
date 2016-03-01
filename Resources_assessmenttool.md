@@ -104,11 +104,11 @@ In order to fully answer a *de jure* question where no law exists on the topic o
 
 * **What do I do if any aspect of the tool software stops functioning correctly?**
 
-When logging into the online tool, in the upper right hand corner, click on the *RGI Assessment Tool* dropdown, and then click on *Technical Assistance*. Please complete the form on the [Technical Assistance](http://rgi-staging.nrgi-assessment.org/contact) page to report your issue to the RGI tool software developer.
+When logging into the online tool, in the upper right hand corner, click on the **RGI Assessment Tool** dropdown, and then click on **Technical Assistance**. Please complete the form on the [Technical Assistance](http://rgi-staging.nrgi-assessment.org/contact) page to report your issue to the RGI tool software developer.
 
 * **How do I create a PDF?**
 
-The easiest way is to convert a webpage to a pdf document is to print to PDF. 
+The easiest way is to convert a webpage to a pdf document is to print to PDF. To print to PDF, select **File > Print** or press **Ctrl+P**. Then from the printers available, select **Save as PDF**, **Microsoft Print to PDF** or other. Afterwards, click on **Print** and choose where you would like to save your PDF file.
 
 * **What should I do if I forget my login details or password?**
 
@@ -120,7 +120,7 @@ If your country coordinator is away for a long period of time, before leaving th
 
 * **Can I modify my answer once I have submitted it?**
 
-Once you have submitted your assessment, you cannot return to your answers to edit them. When working on an answer, clicking on *SAVE ANSWER* will save your progress but the question will not be marked as complete and you can return to your work at a later date. By selecting *MARK COMPLETE*, your question will be marked as complete on the assessment homepage, but you can still return to your answer if you have not submitted your full assessment. If you are unsure whether your answer is complete, click on *SAVE ANSWER* rather than *MARK COMPLETE*.
+Once you have submitted your assessment, you cannot return to your answers to edit them. When working on an answer, clicking on **SAVE ANSWER** will save your progress but the question will not be marked as complete and you can return to your work at a later date. By selecting **MARK COMPLETE**, your question will be marked as complete on the assessment homepage, but you can still return to your answer if you have not submitted your full assessment. If you are unsure whether your answer is complete, click on **SAVE ANSWER** rather than **MARK COMPLETE**.
 
 * **When can I use an interview as a source of evidence?**
 
