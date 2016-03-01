@@ -29,4 +29,9 @@ These videos are part of an online course jointly produced by NRGI, the Columbia
 * [NRGI Reader: The Resource Curse](http://www.resourcegovernance.org/sites/default/files/nrgi_Resource-Curse.pdf)
 * [NRGI, Resource Governance Index 2013: Report](http://www.resourcegovernance.org/resource-governance-index)
 * [The World Law Guide](http://www.lexadin.nl/wlg/legis/nofr/legis.php)
-* World Bank Africa Region Working Paper No. 125 (2009), [“Extractive Industries Value Chain: A Comprehensive Integrated Approach to Developing Extractive Industries”](http://siteresources.worldbank.org/INTOGMC/Resources/ei_for_development_3.pdf), pp. 1-22.
+* World Bank Africa Region Working Paper No. 125 (2009), [*Extractive Industries Value Chain: A Comprehensive Integrated Approach to Developing Extractive Industries*](http://siteresources.worldbank.org/INTOGMC/Resources/ei_for_development_3.pdf), pp. 1-22.
+
+
+##**PRECEPT 2: Accountability and Transparency**
+
+
