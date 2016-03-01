@@ -120,7 +120,7 @@ If your country coordinator is away for a long period of time, before leaving th
 
 * **Can I modify my answer once I have submitted it?**
 
-Once you have submitted your assessment, you cannot return to your answers to edit them. When working on an answer, clicking on **SAVE ANSWER** will save your progress but the question will not be marked as complete and you can return to your work at a later date. By selecting **MARK COMPLETE**, your question will be marked as complete on the assessment homepage, but you can still return to your answer if you have not submitted your full assessment. If you are unsure whether your answer is complete, click on **SAVE ANSWER** rather than **MARK COMPLETE**.
+Once you have submitted your assessment, you cannot return to your answers to edit them. When working on an answer, clicking on **Save Answer** will save your progress but the question will not be marked as complete and you can return to your work at a later date. By selecting **Mark complete**, your question will be marked as complete on the assessment homepage, but you can still return to your answer if you have not submitted your full assessment. If you are unsure whether your answer is complete, click on **Save answer** rather than **Mark complete**.
 
 * **When can I use an interview as a source of evidence?**
 
